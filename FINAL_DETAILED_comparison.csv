@@ -1,0 +1,15 @@
+Metric,Raw (No IRS),Semantic (No IRS),Semantic + IRS
+Mean Latency (ms),119.6,25.7,20.8
+95th Percentile Latency (ms),161.7,69.2,21.7
+Latency Std Dev (ms),25.3,12.1,10.6
+Latency Reduction (%),0.0,78.5,82.6
+Mean Energy (mJ),11.1,41.1,42.2
+Energy Savings (%),0.0,-270.1,N/A
+Mean SNR (dB),23.0,22.7,34.4
+SNR with IRS (dB),N/A,N/A,34.4
+IRS Gain (dB),0.0,0.0,12.0
+Datarate (Mbps),153.1,150.8,228.5
+Packet Success Rate (%),100,100,100
+Bandwidth Usage (KB),1000,100,100
+Bandwidth Savings (%),0.0,90,90
+Avg Distance (m),215.3,223.5,213.9
